@@ -1,4 +1,4 @@
-#Welcome to the Bank API project! This project is designed to provide a simple and efficient way to manage customer accounts and perform transactions within a bank. Leveraging the power of ASP.NET 6.0 and Entity Framework 6.0
+# Bank API Project
 
 Welcome to the Bank API project! This project is designed to provide a simple and efficient way to manage customer accounts and perform transactions within a bank. Tech used: ASP.NET 6.0 and Entity Framework 6.0
 
